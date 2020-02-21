@@ -24,6 +24,9 @@ interests:
 - Post-transcriptional regulation
 - Heart development
 - Zebrafish
+- Transcriptome analysis (10X scRNA-seq and bulk RNA-seq)
+- miRNAs
+- Congenital heart disease models
 
 education:
   courses:
@@ -34,7 +37,7 @@ education:
     institution: Université Laval
     year: 2013
   - course: BSc in Biochemistry and Microbiology
-    institution: Université Laval
+    institution: Université de Saint-Boniface and University      of Manitoba
     year: 2011
 
 # Social/Academic Networking
@@ -70,4 +73,4 @@ social:
 #- Visitors
 ---
 
-I am postdoctoral fellow in H. Joseph Yost's lab at the University of Utah. I am interested in all things non-coding RNA, especially in relation to RNA regulatory events that are found to be aberrant in Congenital Heart Disease. I am working on characterizing roles for miRNAs in heart development in general and in specific cell types, such as neural-crest derived cardiomyocytes, using various zebrafish transgenic models.
+I am a postdoctoral fellow in H. Joseph Yost's lab at the University of Utah. I am interested in all things non-coding RNA, especially in relation to RNA regulatory events that are found to be aberrant in Congenital Heart Disease. I am working on characterizing roles for miRNAs in heart development in general and in specific cell types, such as neural-crest derived cardiomyocytes, using various zebrafish transgenic models.
