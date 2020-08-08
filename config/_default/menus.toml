@@ -16,7 +16,7 @@
 #
 [[main]]
   name = "Publications"
-  url = "publication/_index.md"
+  url = "publication/index.html"
   weight = 40
 #
 #[[main]]
